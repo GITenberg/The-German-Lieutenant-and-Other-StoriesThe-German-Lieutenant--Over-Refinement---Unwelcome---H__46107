@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1609
     wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46107#The-German-Lieutenant-and-Other-StoriesThe-German-Lieutenant--Over-Refinement---Unwelcome---H_
 gutenberg_issued: '2014-06-26'
 gutenberg_type: Text
 identifiers:
